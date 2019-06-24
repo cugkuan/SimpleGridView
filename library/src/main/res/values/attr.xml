@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleGridView">
+        <!--GridView的宽高比-->
+        <attr name="simpleGridView_whRatio" format="float|reference"></attr>
+
+        <attr name="android:horizontalSpacing"></attr>
+        <attr name="android:verticalSpacing"></attr>
+        <attr name="android:numColumns"></attr>
+    </declare-styleable>
+</resources>
